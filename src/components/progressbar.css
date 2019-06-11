@@ -1,0 +1,19 @@
+body{
+    margin-top: 50px;
+  }
+
+#active{
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #0090c4;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+#inactive{
+    border-radius: 50%;
+    padding: 10px;
+    background-color: #dddddd;
+    font-size: 20px;
+    color: #ffffff;
+}
