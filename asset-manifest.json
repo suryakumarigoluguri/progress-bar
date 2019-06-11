@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/progress-bar/static/css/main.72314e04.chunk.css",
+    "main.js": "/progress-bar/static/js/main.4c884318.chunk.js",
+    "main.js.map": "/progress-bar/static/js/main.4c884318.chunk.js.map",
+    "runtime~main.js": "/progress-bar/static/js/runtime~main.72a62d35.js",
+    "runtime~main.js.map": "/progress-bar/static/js/runtime~main.72a62d35.js.map",
+    "static/css/2.0bedc3d3.chunk.css": "/progress-bar/static/css/2.0bedc3d3.chunk.css",
+    "static/js/2.ec2a5241.chunk.js": "/progress-bar/static/js/2.ec2a5241.chunk.js",
+    "static/js/2.ec2a5241.chunk.js.map": "/progress-bar/static/js/2.ec2a5241.chunk.js.map",
+    "index.html": "/progress-bar/index.html",
+    "precache-manifest.8bafc4abebd359edae07de65d311444f.js": "/progress-bar/precache-manifest.8bafc4abebd359edae07de65d311444f.js",
+    "service-worker.js": "/progress-bar/service-worker.js",
+    "static/css/2.0bedc3d3.chunk.css.map": "/progress-bar/static/css/2.0bedc3d3.chunk.css.map",
+    "static/css/main.72314e04.chunk.css.map": "/progress-bar/static/css/main.72314e04.chunk.css.map"
+  }
+}
